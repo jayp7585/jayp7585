@@ -1,27 +1,93 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>🔭 I’m currently working on<br><br>* Web application development using **PHP & MySQL**<br>* Building real-world, database-driven systems<br>* Improving backend logic, authentication, and performance<br><br>👯 I’m looking to collaborate on<br><br>* PHP / Web Development projects<br>* College-level and open-source projects<br>* Backend-focused applications<br><br>🤝 I’m looking for help with<br><br>* Advanced backend architecture<br>* Deployment and production-ready applications<br>* Writing clean and scalable code<br><br>🌱 I’m currently learning<br><br>* Advanced PHP & MySQL<br>* Python for automation and backend logic<br>* Full Stack Development concepts<br><br>💬 Ask me about<br><br>* PHP & MySQL<br>* Web application development<br>* Database design & backend logic<br><br>⚡ Fun fact<br><br>* I love converting real-life business problems into working software 🚀<br><br> 🚀 Projects<br>🍽️ J & K Cafe & Restro – Restaurant Management System<br><br>Tech Stack :  PHP, MySQL<br><br>* Developed a complete restaurant management system with secure authentication<br>* Implemented real-time order management, menu handling, and user roles<br>* Designed a responsive UI with email notification features<br>* Optimized database queries for better performance<br><br>---<br> 🚌 GETBUS – Online Bus Booking System<br><br>Tech Stack :  PHP, MySQL, Cashfree Payment Gateway<br><br>* Built a bus booking platform with real-time seat availability<br>* Implemented ticket booking and cancellation features<br>* Integrated **Cashfree payment gateway** for secure online payments<br>* Developed role-based admin and user management system<br><br>📰 Fake News Detection Web App<br><br>Tech Stack : Python, Streamlit, Machine Learning (TF-IDF, Logistic Regression)<br><br>* Created a machine learning-based web app to detect fake news<br>* Used text preprocessing, TF-IDF vectorization, and Logistic Regression<br>* Designed a simple UI using Streamlit for real-time predictions<br><br>🌐 Portfolio / Mini Web Projects<br><br>Tech Stack :HTML, CSS, JavaScript, Bootstrap<br><br>* Developed responsive web pages and UI components<br>* Focused on clean design, usability, and mobile responsiveness<br><br>---<br><br>📫 Email: jayp56837@gmail.com  <br>🔗 LinkedIn: https://www.linkedin.com/in/jay-panchal0324  <br>📍 Location: Surat, India  <br>```<br>
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Panchal jay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panchal_jay10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jay-panchal0324) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jay Panchal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayp56837@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jayp7585&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jayp7585&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayp7585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jayp7585&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jayp7585&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Jay+Panchal+👋;MCA+Student+%7C+Web+Developer;PHP+%7C+Python+%7C+Machine+Learning;Building+Real-World+Projects;Open+to+Internships+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jayp7585&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+🎓 **MCA Student | Web Developer | ML Enthusiast**  
+I build **real-world web applications** with strong backend logic and data-driven systems.
+
+I enjoy working with **PHP, Python, databases, and ML models**, turning ideas into clean, functional software.  
+Currently focused on **full-stack growth** and **internship opportunities**.
+
+---
+
+## 🚀 Expertise
+
+- Backend web development  
+- Authentication & role-based systems  
+- Database design & optimization  
+- Machine Learning for text analysis  
+- Clean, scalable code practices  
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages & Databases
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### 🌐 Web & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jayp7585&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayp7585&show_icons=true&theme=dark&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayp7585&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://github.com/jayp7585/jayp7585/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🍽️ **Restaurant Management System** (PHP, MySQL)  
+- 🚌 **GETBUS – Bus Booking System** (PHP, MySQL, Cashfree)  
+- 📰 **Fake News Detection App** (Python, ML, Streamlit)  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jay-panchal0324">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jayp56837@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>“Consistency beats talent when talent doesn’t commit.”</em> 🚀
+</p>
