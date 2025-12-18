@@ -59,15 +59,12 @@ Currently focused on **full-stack growth** and **internship opportunities**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayp7585&layout=compact&theme=dark" />
 </p>
 
----
-
 ## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/jayp7585/jayp7585/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jayp7585/jayp7585/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 
