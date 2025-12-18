@@ -1,8 +1,14 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jayp7585&label=Profile%20Views&color=0e75b6&style=flat" alt="jayp7585" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Jay+Panchal+👋;MCA+Student+%7C+Web+Developer;PHP+%7C+Python+%7C+Machine+Learning;Building+Real-World+Projects;Open+to+Internships+🚀" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 👋 About Me
 
@@ -12,7 +18,9 @@ I build **real-world web applications** with strong backend logic and data-drive
 I enjoy working with **PHP, Python, databases, and ML models**, turning ideas into clean, functional software.  
 Currently focused on **full-stack growth** and **internship opportunities**.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🚀 Expertise
 
@@ -22,7 +30,9 @@ Currently focused on **full-stack growth** and **internship opportunities**.
 - Machine Learning for text analysis  
 - Clean, scalable code practices  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🧰 Tech Stack
 
@@ -39,32 +49,50 @@ Currently focused on **full-stack growth** and **internship opportunities**.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayp7585&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jayp7585&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayp7585&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayp7585&show_icons=true&theme=dark&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayp7585&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayp7585&layout=compact&theme=dark&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
 ## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jayp7585/jayp7585/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jayp7585/jayp7585/output/snake.svg" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 📌 Latest Work
+
+> 🔄 My most recent and best projects are **pinned on my GitHub profile**  
+> 👉 Please scroll down to **Pinned repositories**
+
+---
 
 ## 🚀 Featured Projects
 
@@ -72,7 +100,9 @@ Currently focused on **full-stack growth** and **internship opportunities**.
 - 🚌 **GETBUS – Bus Booking System** (PHP, MySQL, Cashfree)  
 - 📰 **Fake News Detection App** (Python, ML, Streamlit)  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🌐 Connect With Me
 
