@@ -79,8 +79,6 @@ Currently focused on **full-stack growth** and **internship opportunities**.
 
 ## 🐍 Contribution Animation
 
-## 🐍 Contribution Animation
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/jayp7585/jayp7585/output/snake.svg" />
 </p>
